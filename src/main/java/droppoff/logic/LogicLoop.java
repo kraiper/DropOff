@@ -10,10 +10,10 @@ import java.util.Iterator;
 
 public class LogicLoop
 {
-    private Table table;
-    private Player player;
-    private Direction direction = new Direction();
-    private ArrayList<Integer> commands = new ArrayList<>();
+    private final Table table;
+    private final Player player;
+    private final Direction direction = new Direction();
+    private final ArrayList<Integer> commands = new ArrayList<>();
 
     public LogicLoop(ArrayList<Integer> commands)
     {
@@ -28,7 +28,7 @@ public class LogicLoop
     {
         Iterator<Integer> commandIterator = commands.iterator();
 
-        // Check to see if the player ever leaves the table during the run (not used for the minimum scenario)
+        // Check to see if the player ever leave the table during the run (not used for the minimum scenario)
 //        boolean onTable = true;
 //        int failStep = 0;
 
