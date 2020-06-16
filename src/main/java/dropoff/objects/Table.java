@@ -1,4 +1,4 @@
-package main.java.droppoff.objects;
+package main.java.dropoff.objects;
 
 import java.util.Arrays;
 

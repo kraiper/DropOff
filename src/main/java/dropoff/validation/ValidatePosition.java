@@ -1,7 +1,7 @@
-package main.java.droppoff.validation;
+package main.java.dropoff.validation;
 
-import main.java.droppoff.objects.Player;
-import main.java.droppoff.objects.Table;
+import main.java.dropoff.objects.Player;
+import main.java.dropoff.objects.Table;
 
 public class ValidatePosition
 {

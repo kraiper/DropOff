@@ -1,6 +1,6 @@
-package main.java.droppoff.logic;
+package main.java.dropoff.logic;
 
-import main.java.droppoff.objects.Matrix;
+import main.java.dropoff.objects.Matrix;
 
 public class Rotate
 {

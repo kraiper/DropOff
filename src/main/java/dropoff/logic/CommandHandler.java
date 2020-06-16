@@ -1,7 +1,7 @@
-package main.java.droppoff.logic;
+package main.java.dropoff.logic;
 
-import main.java.droppoff.objects.Player;
-import main.java.droppoff.objects.Direction;
+import main.java.dropoff.objects.Player;
+import main.java.dropoff.objects.Direction;
 
 public class CommandHandler
 {

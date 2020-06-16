@@ -1,7 +1,7 @@
-package main.java.droppoff;
+package main.java.dropoff;
 
-import main.java.droppoff.logic.LogicLoop;
-import main.java.droppoff.tools.Reader;
+import main.java.dropoff.logic.LogicLoop;
+import main.java.dropoff.tools.Reader;
 
 public class Main
 {
